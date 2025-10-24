@@ -104,9 +104,7 @@ This is the main Power BI report file containing the interactive **Audit, Risk &
 - **Data Model with DAX Calculations**
 - Slicers and visual interactions for dynamic filtering
 
----
-#### Let's Connect
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/teruyukiito/])
+
 ---
 
 ### 🏷️ Tags
