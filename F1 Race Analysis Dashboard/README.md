@@ -9,5 +9,6 @@ The **F1 Race Analysis Dashboard** provides an interactive view of Formula 1 rac
 
 This dashboard is perfect for F1 enthusiasts, analysts, and strategists who want a deeper understanding of race dynamics and performance trends.
 
-[🔗 Explore the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmZiNTA3ZDUtZWJmNy00Mzc2LWFlYTAtZmQ5ZWUy)
+[🔗 F1 Race Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmZiNTA3ZDUtZWJmNy00Mzc2LWFlYTAtZmQ5ZWUyNTY5ZmIwIiwidCI6ImI0OTRiOGU1LTkyNTQtNDIzNi05OTViLTUxOGM3ZWIyZmE5NCJ9&pageName=2c9a6fec495b258f08ec)
+
 
